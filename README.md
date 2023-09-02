@@ -4,6 +4,7 @@
 - Queen Mary University of London: Computing and Information Systems MSc 
 
 - Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
+  
 
 
 ### Projects
