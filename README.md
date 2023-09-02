@@ -3,6 +3,7 @@
 ### Projects
 #### Data Science Projects
 Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
+    
     Problem Area:
 
     Methodology: 
@@ -12,6 +13,7 @@ Project: Is A “Centre-Forward” Footballer’s Market Value Determined only b
     Findings:
   
 Project: COVID-19 Dashboard
+    
     Problem Area:
 
     Methodology: 
