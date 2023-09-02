@@ -19,7 +19,7 @@ Project: Is A “Centre-Forward” Footballer’s Market Value Determined only b
 
     Findings:
   
-Project: COVID-19 Dashboard
+Project: COVID-19 Dashboard:
     
     Problem Area:
 
