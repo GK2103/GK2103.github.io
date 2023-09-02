@@ -29,7 +29,7 @@ Project: COVID-19 Dashboard
 
 
 ### Work Experience
-Store Assistant at Subra Enterprises: Convenience Store
+#### Store Assistant at Subra Enterprises: Convenience Store
 
 • Led the successful integration of the store onto a well-established online platform within a set deadline and
 analysed store data to identify the most popular, restocked, and frequently co-purchased items to advertise,
@@ -38,7 +38,7 @@ resulting in a 5% increase in monthly sales.
 • Collaborated effectively with a sales team to offer products and deliver exceptional customer service, honing
 communication and teamwork skills.
 
-Property Management Intern at London Quays: Property Firm
+#### Property Management Intern at London Quays: Property Firm
 
 • Acquired significant experience in client relations and interpersonal communication through shadowing
 various landlords and interacting with clients in person. 
