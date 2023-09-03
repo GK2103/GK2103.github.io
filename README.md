@@ -1,9 +1,9 @@
 # GK2103.github.io
 ### Skills
-# Python 
-# SQL
-# Java 
-# MATLAB 
+Python 
+SQL
+Java 
+MATLAB 
 
 ### Education
 - Queen Mary University of London: Computing and Information Systems MSc 
