@@ -57,5 +57,7 @@ various landlords and interacting with clients in person.
 • Demonstrated effective organisational and managerial skills by efficiently managing company schedules and
 coordinating appointments.
 
+![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/e7060c72-9978-4065-b1d9-e0161b137767)
+
 
 
