@@ -28,7 +28,6 @@ Project: Is A “Centre-Forward” Footballer’s Market Value Determined only b
     Results:
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/e7060c72-9978-4065-b1d9-e0161b137767)
 ![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/644f0d07-d418-4440-a196-2107a37f0f0b)
-![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/644f0d07-d418-4440-a196-2107a37f0f0b) 
   
 Project: COVID-19 Dashboard:
     
