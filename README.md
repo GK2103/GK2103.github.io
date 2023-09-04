@@ -25,9 +25,13 @@ In professional football, there's ongoing debate about how a player's market val
 ##### Methodology: 
 This project shows a range of data analyst skills and data-driven techniques while using essential Python libraries. 
 • First, for data collection, the "Most Expensive Footballers 2021" dataset was sourced from Kaggle. 
+
 • Following this rigorous data cleaning was done to ensure data integrity and consistency. Notably, during this process, a few data columns were combined to create the "Goals + Assists per match" column, a key player performance metric. 
+
 • Python served as the primary programming language, with essential libraries such as pandas for adept data manipulation, and numpy for precise numerical operations. 
+
 • K-means clustering and Linear Regression were the two Machine learning techniques that were then deployed to model and evaluate the intricate relationship between market value and performance statistics. Where for linear Regression the the data set was spilt to create training data, to create a model, and test data to compare it against the model. 
+
 • To further strengthen the analysis, data visualization was carried out with Python using matplotlib to present clear and informative visualisations and the pd.set_option for fine-tuning the display options.
 
 ##### Findings: 
