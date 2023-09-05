@@ -62,13 +62,13 @@ The project introduces a mobile fitness app with educational features, goal sett
 
 Weight Less included many features: 
 
--	Calorie Tracker – A feature used to track the daily calorie intake of the user, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
+• Calorie Tracker – A feature used to track the daily calorie intake of the user, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
 
--	Workout Tracker - A feature used to track the Workout the user has done, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
+• Workout Tracker - A feature used to track the Workout the user has done, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
 
--	Information Station – A feature aimed to educate the user on sustainable WeightLoss, Workout Routines and Meal plans.
+• Information Station – A feature aimed to educate the user on sustainable WeightLoss, Workout Routines and Meal plans.
   
--	Calorie Goal Calculator – A feature that calculates a user’s caloric goal based on their biometric data.
+• Calorie Goal Calculator – A feature that calculates a user’s caloric goal based on their biometric data.
 
 
 ##### Implementation: 
