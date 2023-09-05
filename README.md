@@ -88,6 +88,7 @@ The “workoutdata” SQLite database was created in the DBHelper java class as 
 5.	Edit/Delete Entries: Users can edit or delete entries by clicking them. In doing do they would be taken to the “Edit Exercise Log”. Editing updates data in the database using "updateuserdata," and deletion uses "deleteuserdata." Both these methods use a combination of both Java and SQL to manipulate the “Workoutdata” Table and change the entries that are saved in the table. 
 
 ##### Results:
+![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/361540c9-eaf3-4bc5-81b7-f5fcfaedba83)
 
 
 ### Work Experience
