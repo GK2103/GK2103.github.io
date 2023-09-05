@@ -48,7 +48,8 @@ The project's findings revealed that player performance statistics significantly
 
 This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). By offering a reliable and engaging solution, "WeightLess" strives to combat global obesity. 
 
-References:
+###### References:
+
 Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/	(Accessed: January 17, 2023). 
 
 Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true (Accessed: 24 May 2023). 
@@ -56,18 +57,6 @@ Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Ava
 Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023). 
 
 ##### Methodology: 
-
-This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). By offering a reliable and engaging solution, "WeightLess" strives to combat global obesity.
-
-One of the most promising features was the Calories and Workout Tracker which allowed users to enter and store entries of their Meals and Workouts, which were displayed back to the user in a diary format so the user could track their Progress. Then Users could compare their entered calories with the target calorie goal which the app calculates for them. 
-
-###### Reference 
-
-Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/	(Accessed: January 17, 2023). 
-
-Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true (Accessed: 24 May 2023). 
-
-Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023). 
 
 ##### Implementation: 
 Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data. 
