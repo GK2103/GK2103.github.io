@@ -74,6 +74,18 @@ Weight Less included many features:
 ##### Implementation: 
 Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made. 
 
+The “workoutdata” SQLite database was created in the DBHelper java class as seen in line 9 and 10 of Figure 5. Then a table is created called “Workoutdata” using the .execSQL Java function by writing an SQL query on line 16. The query creates a table having columns for exercise, sets, reps and weight where exercise is the primary key. 
+
+
+1.	View Entries: Users click "Workout Tracker" on the home page and are taken to the “Workout Tracker” Page (seen in Figure 2) and can see their stored exercise entries.
+   
+2.	Add Exercise: They can add new exercises by clicking a green button, which takes them to an “Add Exercise” page (seen in Figure 3), When they submit this data, the "add_exercise" Java class captures the information and saves it using the "saveuserdata" method from the "DBhelper" class. This data is stored in the "workoutdata" database.
+   
+3.	Display Data: The "Workout_Diary" class retrieves data from the database via the "displaydata" and "getdata" methods found in the, storing it in ArrayLists.
+   
+4.	UI Population: An instance of "MyAdapter" formats the data for display in a RecyclerView, showing both new and previous entries.
+   
+5.	Edit/Delete Entries: Users can edit or delete entries by clicking them. In doing do they would be taken to the “Edit Exercise Log”. Editing updates data in the database using "updateuserdata," and deletion uses "deleteuserdata." Both these methods use a combination of both Java and SQL to manipulate the “Workoutdata” Table and change the entries that are saved in the table. 
 
 ##### Results:
 
