@@ -46,7 +46,7 @@ The project's findings revealed that player performance statistics significantly
 
 ##### Problem Area: 
 
-This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). By offering a reliable and engaging solution, "WeightLess" strives to combat global obesity. 
+This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). 
 
 ###### References:
 
@@ -58,8 +58,21 @@ Consagoustech (2023) From download to delete: The real reasons fitness apps fail
 
 ##### Methodology: 
 
+The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). By offering a reliable and engaging solution, "WeightLess" strives to combat global obesity. The App was implemented using Android Studios where XML was used for the Front End. The Backend used was mainly java for the functionality of the app and SQL for the database.
+
+Weight Less included many features: 
+
+-	Calorie Tracker – A feature used to track the daily calorie intake of the user, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
+
+-	Workout Tracker - A feature used to track the Workout the user has done, the details of which the user enters manually. The entry is stored in a separate SQLite database and displayed back to the user to see their progress.  
+
+-	Information Station – A feature aimed to educate the user on sustainable WeightLoss, Workout Routines and Meal plans.
+  
+-	Calorie Goal Calculator – A feature that calculates a user’s caloric goal based on their biometric data.
+
+
 ##### Implementation: 
-Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data. 
+Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made. 
 
 
 ##### Results:
