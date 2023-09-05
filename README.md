@@ -8,13 +8,15 @@ Java
 
 MATLAB 
 
+XML
+
+Android Studios
+
 ### Education
-• Queen Mary University of London: Computing and Information Systems MSc 
+• Queen Mary University of London: Computing and Information Systems MSc (Predicted Grade: 1st Class)
 
 • Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
   
-
-
 ### Projects
 #### Data Science Projects
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
@@ -46,7 +48,7 @@ The project's findings revealed that player performance statistics significantly
 
 ##### Problem Area: 
 
-This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). 
+This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). To combat this issue i Created a Fitness app called "WeightLess". The Fitness app had a Calorie and Workout Tracker which required the need for an SQLite database and SQL queries to manipulate data within the SQLite database.
 
 ###### References:
 
@@ -58,7 +60,7 @@ Consagoustech (2023) From download to delete: The real reasons fitness apps fail
 
 ##### Methodology: 
 
-The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). By offering a reliable and engaging solution, "WeightLess" strives to combat global obesity. The App was implemented using Android Studios where XML was used for the Front End. The Backend used was mainly java for the functionality of the app and SQL for the database.
+The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). The App was implemented using Android Studios where XML was used for the Front End. The Backend used was mainly java for the functionality of the app and SQL for the database.
 
 Weight Less included many features: 
 
@@ -74,7 +76,7 @@ Weight Less included many features:
 ##### Implementation: 
 Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made.  
 
-The “workoutdata” SQLite database was created in the DBHelper java class as seen in line 9 and 10 of Figure 5. Then a table is created called “Workoutdata” using the .execSQL Java function by writing an SQL query on line 16. The query creates a table having columns for exercise, sets, reps and weight where exercise is the primary key. 
+The “workoutdata” SQLite database was created in the DBHelper java class, as seen in the Results section below, line 9 and 10 of Figure 5. Then a table was created called “Workoutdata” using the .execSQL Java function by writing an SQL query on line 16. The query creates a table having columns for exercise, sets, reps and weight where exercise is the primary key. 
 
 
 1.	View Entries: Users click "Workout Tracker" on the home page and are taken to the “Workout Tracker” Page (seen in Figure 2) and can see their stored exercise entries.
@@ -87,9 +89,14 @@ The “workoutdata” SQLite database was created in the DBHelper java class as 
    
 5.	Edit/Delete Entries: Users can edit or delete entries by clicking them. In doing do they would be taken to the “Edit Exercise Log”. Editing updates data in the database using "updateuserdata," and deletion uses "deleteuserdata." Both these methods use a combination of both Java and SQL to manipulate the “Workoutdata” Table and change the entries that are saved in the table. 
 
+Further details on the implementation and the code for the app can be found in the code file and the research paper written about the implementation effectiveness of the app
+
 ##### Results:
 ![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/361540c9-eaf3-4bc5-81b7-f5fcfaedba83)
 ![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
+
+### Other Project:
+COVID-19 Dashboard
 
 
 ### Work Experience
@@ -109,6 +116,8 @@ various landlords and interacting with clients in person.
 
 • Demonstrated effective organisational and managerial skills by efficiently managing company schedules and
 coordinating appointments.
+
+
 
 
 
