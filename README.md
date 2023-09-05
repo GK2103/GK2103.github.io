@@ -18,7 +18,7 @@ Android Studios
 • Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
   
 ### Projects
-#### Data Science Projects
+
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
     
 ##### Problem Area: 
