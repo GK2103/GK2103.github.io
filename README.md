@@ -72,7 +72,7 @@ Weight Less included many features:
 
 
 ##### Implementation: 
-Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made. 
+Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made.  
 
 The “workoutdata” SQLite database was created in the DBHelper java class as seen in line 9 and 10 of Figure 5. Then a table is created called “Workoutdata” using the .execSQL Java function by writing an SQL query on line 16. The query creates a table having columns for exercise, sets, reps and weight where exercise is the primary key. 
 
