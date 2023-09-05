@@ -11,7 +11,7 @@ MATLAB
 XML
 
 Android Studios
-
+ 
 ### Education
 • Queen Mary University of London: Computing and Information Systems MSc (Predicted Grade: 1st Class)
 
