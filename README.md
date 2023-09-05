@@ -89,6 +89,7 @@ The “workoutdata” SQLite database was created in the DBHelper java class as 
 
 ##### Results:
 ![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/361540c9-eaf3-4bc5-81b7-f5fcfaedba83)
+![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
 
 
 ### Work Experience
