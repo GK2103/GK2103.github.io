@@ -39,7 +39,7 @@ This project shows a range of data analyst skills and data-driven techniques whi
 
 • To further strengthen the analysis, I had done some data visualization with Python using matplotlib to present clear and informative visualisations and the pd.set_option for fine-tuning the display options.
 
-##### Findings: (Full analysis can be found in the Project PDF) 
+##### Findings: (Full analysis can be found in the project report PDF) 
 The project's findings revealed that player performance statistics significantly affect the market values of footballers who were valued below £60 million, while higher-valued players above £130 million are influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicates a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
 
 ##### Results:
