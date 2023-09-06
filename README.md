@@ -21,7 +21,7 @@ Android Studios
 
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
-[ Link to GitHub repository of the project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
+[Link To Project GitHub Repository](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
 ##### Problem Area: 
 In professional football, there's ongoing debate about how a player's market value is determined, especially for "Centre-Forwards." This study uses data from the "Most Expensive Footballers 2021" dataset, which considers various factors like a player's performance and the league's competitiveness. We'll analyse the top 50 "Centre-Forwards" to assess how goals and assists significantly impact their market value.
@@ -49,7 +49,7 @@ The project's findings revealed that player performance statistics significantly
 #### Project: WeightLess Fitness App:
 
 ##### The Link to GitHub repository of the project (Containing the folder to download the app ): 
-[WeightLess App GitHub Repository](https://github.com/GK2103/WeightLess)
+[Link To WeightLess App GitHub Repository](https://github.com/GK2103/WeightLess)
 
 ##### Problem Area: 
 
