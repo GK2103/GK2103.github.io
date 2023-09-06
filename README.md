@@ -20,7 +20,7 @@ Android Studios
 ### Projects
 
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
-#### LINK TO GITHUB Repoisroty of project (including the code for project and pdf oof analysis:
+#### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 https://github.com/GK2103/Centre-Forward-Market-Value-Analysis 
 
 ##### Problem Area: 
