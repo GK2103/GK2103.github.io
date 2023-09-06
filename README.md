@@ -49,7 +49,7 @@ The project's findings revealed that player performance statistics significantly
 #### Project: WeightLess Fitness App:
 
 ##### Link to GitHub repository of the project (Containing the folder to download the app ): 
-https://github.com/GK2103/WeightLess    
+[https://github.com/GK2103/WeightLess](https://github.com/GK2103/WeightLess)   
 
 ##### Problem Area: 
 
