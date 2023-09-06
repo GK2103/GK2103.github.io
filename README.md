@@ -20,7 +20,9 @@ Android Studios
 ### Projects
 
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
-    
+#### LINK TO GITHUB Repoisroty of project (including the code for project and pdf oof analysis:
+https://github.com/GK2103/Centre-Forward-Market-Value-Analysis 
+
 ##### Problem Area: 
 In professional football, there's ongoing debate about how a player's market value is determined, especially for "Centre-Forwards." This study uses data from the "Most Expensive Footballers 2021" dataset, which considers various factors like a player's performance and the league's competitiveness. We'll analyse the top 50 "Centre-Forwards" to assess how goals and assists significantly impact their market value.
 
