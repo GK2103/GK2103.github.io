@@ -20,7 +20,7 @@ Android Studios
 ### Projects
 
 #### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
-#### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
+##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 https://github.com/GK2103/Centre-Forward-Market-Value-Analysis 
 
 ##### Problem Area: 
@@ -47,7 +47,7 @@ The project's findings revealed that player performance statistics significantly
 ![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/8c0e9440-25a8-4b9f-8994-7a989d82815f)
   
 #### Project: WeightLess Fitness App:
-#### Link to GitHub repository of the project (Containing the folder to download the app ): 
+##### Link to GitHub repository of the project (Containing the folder to download the app ): 
 https://github.com/GK2103/WeightLess 
 
 ##### Problem Area: 
