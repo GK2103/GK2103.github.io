@@ -26,7 +26,7 @@ https://github.com/GK2103/Centre-Forward-Market-Value-Analysis
 ###### Problem Area: 
 In professional football, there's ongoing debate about how a player's market value is determined, especially for "Centre-Forwards." This study uses data from the "Most Expensive Footballers 2021" dataset, which considers various factors like a player's performance and the league's competitiveness. We'll analyse the top 50 "Centre-Forwards" to assess how goals and assists significantly impact their market value.
 
-##### Methodology: 
+###### Methodology: 
 This project shows a range of data analyst skills and data-driven techniques while using essential Python libraries. 
 
 • First, for data collection, I had sourced the "Most Expensive Footballers 2021" dataset from Kaggle. 
@@ -39,10 +39,10 @@ This project shows a range of data analyst skills and data-driven techniques whi
 
 • To further strengthen the analysis, I had done some data visualization with Python using matplotlib to present clear and informative visualisations and the pd.set_option for fine-tuning the display options.
 
-##### Findings: (Full analysis can be found in the Project PDF) 
+###### Findings: (Full analysis can be found in the Project PDF) 
 The project's findings revealed that player performance statistics significantly affect the market values of footballers who were valued below £60 million, while higher-valued players above £130 million are influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicates a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
 
-##### Results:
+###### Results:
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/133679ee-198f-4f54-9c45-1f66ec6bb9e5)
 ![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/8c0e9440-25a8-4b9f-8994-7a989d82815f)
   
