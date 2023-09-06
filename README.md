@@ -56,11 +56,11 @@ This project aims to tackle the global obesity crisis as it been reported by EAS
 
 ###### References:
 
-Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/	(Accessed: January 17, 2023). 
+Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/(Accessed: January 17, 2023). 
 
-Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true (Accessed: 24 May 2023). 
+Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true(Accessed: 24 May 2023). 
 
-Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023). 
+Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d(Accessed: 15 August 2023). 
 
 ##### Methodology: 
 
