@@ -2,7 +2,7 @@
 ### Skills
 Python
 
-SQL
+SQL 
 
 Java
  
