@@ -102,6 +102,8 @@ Further details on the implementation and the code for the app can be found in t
 
 ### Other Project:
 COVID-19 Dashboard
+![Slide1](https://github.com/GK2103/GK2103.github.io/assets/99646891/b3a60f1b-4627-4f5a-ab0d-29c10a86dab4) 
+[Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/WeightLess)
 
 
 ### Work Experience
