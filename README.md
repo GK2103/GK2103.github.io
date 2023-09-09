@@ -27,9 +27,6 @@ Android Studios
 In professional football, there's an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' For my study, I used data from the 'Most Expensive Footballers 2021' dataset, which considers various factors such as a player's performance and the competitiveness of the league. I analysed the top 50 'Centre-Forwards' to assess how goals and assists significantly impact their market value.
 
 ##### Results:
-![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/133679ee-198f-4f54-9c45-1f66ec6bb9e5)
-![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/8c0e9440-25a8-4b9f-8994-7a989d82815f)
-
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/8195b0e1-1619-4a43-bf13-dc8757552d5c)
 ![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/8e1f14be-2b32-4353-ac6a-db3fadd89982)
  
