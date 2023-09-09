@@ -19,7 +19,7 @@ Android Studios
   
 ### Projects
 
-#### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
+### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
@@ -48,7 +48,7 @@ This project shows a range of data analyst skills and data-driven techniques whi
 The project's findings revealed that player performance statistics significantly affected the market values of footballers who were valued below £60 million, while higher-valued players above £130 million were influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicated a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while player statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
 
 
-#### Project: WeightLess Fitness App:
+### Project: WeightLess Fitness App:
 
 ##### The Link to GitHub repository of the project (Containing the folder to download the app ): 
 [Link To GitHub Repository of WeightLess App](https://github.com/GK2103/WeightLess)
@@ -56,14 +56,6 @@ The project's findings revealed that player performance statistics significantly
 ##### Problem Area: 
 
 This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). To combat this issue I created a Fitness app called "WeightLess". The Fitness app had a Calorie and Workout Tracker which required the need for a SQLite database and SQL queries to manipulate data within the SQLite database.
-
-###### References:
-
-Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/ (Accessed: January 17, 2023). 
-
-Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true (Accessed: 24 May 2023). 
-
-Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023). 
 
 ##### Methodology: 
 
@@ -79,6 +71,9 @@ Weight Less included many features:
   
 • Calorie Goal Calculator – A feature that calculates a user’s caloric goal based on their biometric data.
 
+##### Results:
+![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/361540c9-eaf3-4bc5-81b7-f5fcfaedba83)
+![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
 
 ##### Implementation: 
 
@@ -99,9 +94,13 @@ I created the "workoutdata" SQLite database within the DBHelper Java class, as c
 
 Further details on the implementation and the code for the app can be found in the code file and the research paper written about the implementation effectiveness of the app
 
-##### Results:
-![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/361540c9-eaf3-4bc5-81b7-f5fcfaedba83)
-![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
+###### References:
+
+Halford, J. (2020) Statistics, EASO. Available at: 	https://easo.org/media-portal/statistics/ (Accessed: January 17, 2023). 
+
+Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Available at: https://thesocialtalks.com/health/rise-of-misinformation-in-the-fitness-industry/?utm_content=cmp-true (Accessed: 24 May 2023). 
+
+Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023).
 
 ### Other Project:
 COVID-19 Dashboard
