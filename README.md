@@ -32,7 +32,7 @@ In professional football, there's an ongoing debate about how a player's market 
 
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/8195b0e1-1619-4a43-bf13-dc8757552d5c)
 ![Slide3](https://github.com/GK2103/GK2103.github.io/assets/99646891/8e1f14be-2b32-4353-ac6a-db3fadd89982)
-
+ 
 
 ##### Methodology: 
 This project shows a range of data analyst skills and data-driven techniques while using essential Python libraries. 
