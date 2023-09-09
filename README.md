@@ -107,7 +107,7 @@ COVID-19 Dashboard
 
 In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employed the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I performed tasks like date string conversion and age range parsing to enhance data quality. Notably, I had done some Data Visualization as I leveraged matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
 
-![Slide1](https://github.com/GK2103/GK2103.github.io/assets/99646891/8afb67ab-8fb0-49fe-a3e9-c3cb3eaf74a1)
+![Slide1](https://github.com/GK2103/GK2103.github.io/assets/99646891/d27d1b09-171a-4749-babb-08e0e9bc2074)
 [Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
 
 
