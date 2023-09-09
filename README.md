@@ -24,23 +24,23 @@ Android Studios
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
 ##### Problem Area: 
-In professional football, there's ongoing debate about how a player's market value is determined, especially for "Centre-Forwards." This study uses data from the "Most Expensive Footballers 2021" dataset, which considers various factors like a player's performance and the league's competitiveness. We'll analyse the top 50 "Centre-Forwards" to assess how goals and assists significantly impact their market value.
+In professional football, there's an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' For my study, I used data from the 'Most Expensive Footballers 2021' dataset, which considers various factors such as a player's performance and the competitiveness of the league. I analysed the top 50 'Centre-Forwards' to assess how goals and assists significantly impact their market value.
 
 ##### Methodology: 
 This project shows a range of data analyst skills and data-driven techniques while using essential Python libraries. 
 
 • First, for data collection, I had sourced the "Most Expensive Footballers 2021" dataset from Kaggle. 
 
-• Following this I had done rigorous data cleaning to ensure data integrity and consistency. Notably, during this process, I had combined a few data columns to create the "Goals + Assists per match" column, a key player performance metric. 
+• Python served as the primary programming language, with essential libraries such as pandas for adept data manipulation, and numpy for precise numerical operations.
 
-• Python served as the primary programming language, with essential libraries such as pandas for adept data manipulation, and numpy for precise numerical operations. 
+• Following this I had done rigorous data cleaning, using pandas and NumPy to ensure data integrity and consistency. Notably, during this process, I had combined a few data columns to create the "Goals + Assists per match" column, a key player performance metric.  
 
 • K-means clustering and Linear Regression were the two Machine learning techniques that were then deployed to model and evaluate the intricate relationship between market value and performance statistics. Where for linear Regression the the data set was spilt to create training data, to create a model, and test data to compare it against the model. 
 
 • To further strengthen the analysis, I had done some data visualization with Python using matplotlib to present clear and informative visualisations and the pd.set_option for fine-tuning the display options.
 
 ##### Findings: (Full analysis can be found in the project report PDF) 
-The project's findings revealed that player performance statistics significantly affect the market values of footballers who were valued below £60 million, while higher-valued players above £130 million are influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicates a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
+The project's findings revealed that player performance statistics significantly affected the market values of footballers who were valued below £60 million, while higher-valued players above £130 million were influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicated a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while player statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
 
 ##### Results:
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/133679ee-198f-4f54-9c45-1f66ec6bb9e5)
@@ -53,7 +53,7 @@ The project's findings revealed that player performance statistics significantly
 
 ##### Problem Area: 
 
-This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). To combat this issue i Created a Fitness app called "WeightLess". The Fitness app had a Calorie and Workout Tracker which required the need for an SQLite database and SQL queries to manipulate data within the SQLite database.
+This project aims to tackle the global obesity crisis as it been reported by EASO that obesity and being overweight is the 5th global cause of death (EASO, 2020). Despite abundant online information, misinformation and lack of motivation and engaging solutions hinder effective weight loss (Nakul, 2022). To combat this issue I created a Fitness app called "WeightLess". The Fitness app had a Calorie and Workout Tracker which required the need for a SQLite database and SQL queries to manipulate data within the SQLite database.
 
 ###### References:
 
@@ -65,7 +65,7 @@ Consagoustech (2023) From download to delete: The real reasons fitness apps fail
 
 ##### Methodology: 
 
-The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). The App was implemented using Android Studios where XML was used for the Front End. The Backend used was mainly java for the functionality of the app and SQL for the database.
+The project introduces a mobile fitness app with educational features, goal setting, and tracking, as upon research they had shown promising user engagement results (Consagoustech, 2023). I implemented the app using Android Studios where XML was used for the Front End and for the Backend I mainly used java for the functionality of the app and SQL for the database.
 
 Weight Less included many features: 
 
@@ -79,10 +79,11 @@ Weight Less included many features:
 
 
 ##### Implementation: 
-Both tracking features worked by using a SQLite Database and writing SQL queries using both Java and SQL to write values into the database and then displaying this back to the user in an appealing format as well as changing and deleting pre-existing data/Enteries made.  
 
-The “workoutdata” SQLite database was created in the DBHelper java class, as seen in the Results section below, line 9 and 10 of Figure 5. Then a table was created called “Workoutdata” using the .execSQL Java function by writing an SQL query on line 16. The query creates a table having columns for exercise, sets, reps and weight where exercise is the primary key. 
+Both tracking features were implemented by using an SQLite Database, and I wrote SQL queries using both Java and SQL to insert, edit and delete values in the database. Subsequently, I displayed this information to the user in an appealing format and provided functionality to modify or delete existing entries.
 
+I created the "workoutdata" SQLite database within the DBHelper Java class, as can be observed in the Results section below, specifically on lines 9 and 10 of Figure 5. Next, I proceeded to create a table named "Workoutdata" using the .execSQL Java function, as demonstrated on line 16. This SQL query defined a table with columns for exercise, sets, reps, and weight, with the exercise column serving as the primary key.
+ 
 
 1.	View Entries: Users click "Workout Tracker" on the home page and are taken to the “Workout Tracker” Page (seen in Figure 2) and can see their stored exercise entries.
    
@@ -103,7 +104,7 @@ Further details on the implementation and the code for the app can be found in t
 ### Other Project:
 COVID-19 Dashboard
 
-In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employ the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I perform tasks like date string conversion and age range parsing to enhance data quality. Notably, Data Visualization takes centre stage, as I leverage matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
+In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employed the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I performed tasks like date string conversion and age range parsing to enhance data quality. Notably, I had done some Data Visualization as I leveraged matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
 
 ![Slide1](https://github.com/GK2103/GK2103.github.io/assets/99646891/b3a60f1b-4627-4f5a-ab0d-29c10a86dab4) 
 [Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
