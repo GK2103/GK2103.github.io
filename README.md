@@ -73,7 +73,6 @@ Weight Less included many features:
 
 ##### Results:
 ![Slide4](https://github.com/GK2103/GK2103.github.io/assets/99646891/cb9d36e0-77a7-43bb-ab30-bc2134e71910)
-![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
 ![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/69227769-8518-4d7b-8338-56d0c0825f50)
 ![Slide6](https://github.com/GK2103/GK2103.github.io/assets/99646891/abd103a3-6385-4f97-ac16-8fe03340426b)
 ![Slide7](https://github.com/GK2103/GK2103.github.io/assets/99646891/890fde5a-7306-412b-896b-3d4b0829f8b3)
