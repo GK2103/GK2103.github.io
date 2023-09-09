@@ -76,7 +76,7 @@ Weight Less included many features:
 ![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/34087a55-8a21-4d9e-87dc-6f3a937b3f71)
 ![Slide5](https://github.com/GK2103/GK2103.github.io/assets/99646891/69227769-8518-4d7b-8338-56d0c0825f50)
 ![Slide6](https://github.com/GK2103/GK2103.github.io/assets/99646891/abd103a3-6385-4f97-ac16-8fe03340426b)
-
+![Slide7](https://github.com/GK2103/GK2103.github.io/assets/99646891/890fde5a-7306-412b-896b-3d4b0829f8b3)
 
 ##### Implementation: 
  
@@ -111,6 +111,7 @@ COVID-19 Dashboard
 In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employed the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I performed tasks like date string conversion and age range parsing to enhance data quality. Notably, I had done some Data Visualization as I leveraged matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
 
 ![Slide1](https://github.com/GK2103/GK2103.github.io/assets/99646891/d27d1b09-171a-4749-babb-08e0e9bc2074)
+![Slide8](https://github.com/GK2103/GK2103.github.io/assets/99646891/ad0e4e83-8603-47a3-968b-a8037bccdf5f)
 [Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
 
 
