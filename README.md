@@ -24,7 +24,7 @@ Android Studios
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
 ##### Problem Area: 
-In professional football, there's an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' For my study, I used data from the 'Most Expensive Footballers 2021' dataset, which considers various factors such as a player's performance and the competitiveness of the league. I analysed the top 50 'Centre-Forwards' to assess how goals and assists significantly impact their market value.
+In professional football, there is an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' This study analyses the influence of goals and assists on the market value of the top 50 'Centre-Forwards' using the 'Most Expensive Footballers 2021' dataset.
 
 ##### Results:
 ![Slide2](https://github.com/GK2103/GK2103.github.io/assets/99646891/8195b0e1-1619-4a43-bf13-dc8757552d5c)
@@ -34,19 +34,17 @@ In professional football, there's an ongoing debate about how a player's market 
 ##### Methodology: 
 This project shows a range of data analyst skills and data-driven techniques while using essential Python libraries. 
 
-• First, for data collection, I had sourced the "Most Expensive Footballers 2021" dataset from Kaggle. 
+•	Data Collection: The 'Most Expensive Footballers 2021' dataset was sourced from Kaggle.
 
-• Python served as the primary programming language, with essential libraries such as pandas for adept data manipulation, and numpy for precise numerical operations.
+•	Data Processing: Python was the primary language, utilising pandas for data manipulation and NumPy for numerical operations. Data cleaning ensured integrity, including creating the "Goals + Assists per match" metric.
 
-• Following this I had done rigorous data cleaning, using pandas and NumPy to ensure data integrity and consistency. Notably, during this process, I had combined a few data columns to create the "Goals + Assists per match" column, a key player performance metric.  
+•	Analysis Techniques: K-means clustering, and Linear Regression were employed to model the relationship between market value and performance statistics. The dataset was split into training and test data for linear regression.
 
-• K-means clustering and Linear Regression were the two Machine learning techniques that were then deployed to model and evaluate the intricate relationship between market value and performance statistics. Where for linear Regression the the data set was spilt to create training data, to create a model, and test data to compare it against the model. 
+•	Data Visualisation: Matplotlib was used for creating informative visualisations.
 
-• To further strengthen the analysis, I had done some data visualization with Python using matplotlib to present clear and informative visualisations and the pd.set_option for fine-tuning the display options.
 
 ##### Findings: (Full analysis can be found in the project report PDF) 
 The project's findings revealed that player performance statistics significantly affected the market values of footballers who were valued below £60 million, while higher-valued players above £130 million were influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicated a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while player statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
-
 
 ### Project: WeightLess Fitness App:
 
