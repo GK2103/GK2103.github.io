@@ -38,7 +38,7 @@ This project shows a range of data analyst skills and data-driven techniques whi
 
 •	Data Processing: Python was the primary language, utilising pandas for data manipulation and NumPy for numerical operations. Data cleaning ensured integrity, including creating the "Goals + Assists per match" metric.
 
-•	Analysis Techniques: K-means clustering, and Linear Regression were employed to model the relationship between market value and performance statistics. The dataset was split into training and test data for linear regression.
+•	Data Analysis/Machine learning Techniques: K-means clustering, and Linear Regression were employed to model the relationship between market value and performance statistics. The dataset was split into training and test data for linear regression.
 
 •	Data Visualisation: Matplotlib was used for creating informative visualisations.
 
