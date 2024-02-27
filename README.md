@@ -26,6 +26,7 @@ Android Studios
 ## Projects
 
 ## Project 1: Sales and Customer Data Analysis and Visualization Project
+[Link To GitHub Repository of Sales and Customer Data Analysis and Visualization Project](https://github.com/GK2103/Sales-and-Customer-Data-Analysis-Project)
 ##### Problem Area: 
 This project involves analyzing dummy data for a company and its customer loyalty system. The analysis aims to present an update on sales performance, changes in customer behaviour, and data-driven insights and recommendations through a PowerBI dashboard and PowerPoint presentation, supported by evidence from the data.
 
@@ -48,13 +49,10 @@ Page 2:
 
 ##### Findings: (Full analysis can be found in the project report PDF):
 
-[Link To GitHub Repository of Sales and Customer Data Analysis and Visualization Project](https://github.com/GK2103/Sales-and-Customer-Data-Analysis-Project)
-
 
 
 ## Project 2: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
-##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
-[Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
+[Link To GitHub Repository of Footballer Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
 ##### Problem Area: 
 In professional football, there is an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' This study analyses the influence of goals and assists on the market value of the top 50 'Centre-Forwards' using the 'Most Expensive Footballers 2021' dataset.
@@ -140,11 +138,12 @@ Consagoustech (2023) From download to delete: The real reasons fitness apps fail
 
 ## Other Project:
 COVID-19 Dashboard
+[Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
 
 In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employed the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I performed tasks like date string conversion and age range parsing to enhance data quality. Notably, I had done some Data Visualization as I leveraged matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
 
 ![Slide8](https://github.com/GK2103/GK2103.github.io/assets/99646891/ad0e4e83-8603-47a3-968b-a8037bccdf5f) 
-[Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
+
 
 
 
