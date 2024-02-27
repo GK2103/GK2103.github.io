@@ -13,11 +13,15 @@ MATLAB
 XML 
  
 Android Studios 
+
+
  
 ### Education
 • Queen Mary University of London: Computing and Information Systems MSc (Merit)
 
 • Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
+
+
   
 ### Projects
 
