@@ -2,7 +2,9 @@
 ### Skills
 Python 
  
-SQL  
+SQL
+
+PowerBI
 
 Java 
  
@@ -13,11 +15,17 @@ XML
 Android Studios 
  
 ### Education
-• Queen Mary University of London: Computing and Information Systems MSc (Predicted Grade: 1st Class)
+• Queen Mary University of London: Computing and Information Systems MSc (Merit)
 
 • Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
   
 ### Projects
+
+### Project: Sales and Customer Data Analysis and Visualization Project
+##### Problem Area: 
+##### Methodology: 
+##### Results:
+##### Findings: (Full analysis can be found in the project report PDF)
 
 ### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
@@ -113,20 +121,17 @@ In my project, I make use of Python libraries, including pandas, numpy, and matp
 ### Work Experience
 #### Store Assistant at Subra Enterprises: Convenience Store
 
-• Led the successful integration of the store onto a well-established online platform within a set deadline and
-analysed store data to identify the most popular, restocked, and frequently co-purchased items to advertise,
-resulting in a 5% increase in monthly sales.
+• Led the successful integration of the store onto a well-established online platform within a set deadline after
+analysing store data to identify the most popular, restocked, and frequently co-purchased items to identify
+data-driven solutions, resulting in a 5% increase in monthly sales demonstrating commercial awareness.
 
-• Collaborated effectively with a sales team to offer products and deliver exceptional customer service, honing
+• Effectively communicated technical and non-technical findings and insights, from store data analysis to
+stakeholders.  
+
+• Collaborated effectively with a sales team to recommend business insights to relevant stakeholders honing
 communication and teamwork skills.
 
-#### Property Management Intern at London Quays: Property Firm
 
-• Acquired significant experience in client relations and interpersonal communication through shadowing
-various landlords and interacting with clients in person. 
-
-• Demonstrated effective organisational and managerial skills by efficiently managing company schedules and
-coordinating appointments.
 
 
 
