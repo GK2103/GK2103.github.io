@@ -1,5 +1,5 @@
 # GK2103.github.io 
-### Skills
+## Skills
 Python 
  
 SQL
@@ -18,14 +18,14 @@ Android Studios
 -
 -
 
-### Education
+## Education
 • Queen Mary University of London: Computing and Information Systems MSc (Merit)
 
 • Queen Mary University of London: Mechanical Engineering (Graduated with a 1st Class)
 
 
   
-### Projects
+## Projects
 
 ### Project: Sales and Customer Data Analysis and Visualization Project
 ##### Problem Area: 
