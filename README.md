@@ -42,6 +42,7 @@ This project involves analyzing dummy data for a company and its customer loyalt
 
 ##### Results:
 ![analysis on sales](https://github.com/GK2103/GK2103.github.io/assets/99646891/f94b6c5a-eb56-4a51-b0f7-53c90ba7ba26)
+![customer analaysis](https://github.com/GK2103/GK2103.github.io/assets/99646891/6b339451-5085-4e90-bc78-9143a89e29f8)
 
 ##### Findings: (Full analysis can be found in the project report PDF)
 
