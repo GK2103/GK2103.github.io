@@ -48,6 +48,8 @@ Page 2:
 
 ##### Findings: (Full analysis can be found in the project report PDF):
 
+[Link To GitHub Repository of Sales and Customer Data Analysis and Visualization Project](https://github.com/GK2103/Sales-and-Customer-Data-Analysis-Project)
+
 ### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
