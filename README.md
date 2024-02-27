@@ -41,10 +41,12 @@ This project involves analyzing dummy data for a company and its customer loyalt
 • Data Visualization with Power BI: The analysed data was exported from SQL and imported into Power BI for visualization. Power BI was used to create interactive visualizations, allowing for in-depth exploration of the data and presentation of key findings to stakeholders. Visualizations such as charts, graphs, and dashboards were employed to effectively communicate trends and patterns in the data.
 
 ##### Results:
+Page 1:
 ![analysis on sales](https://github.com/GK2103/GK2103.github.io/assets/99646891/f94b6c5a-eb56-4a51-b0f7-53c90ba7ba26)
+Page 2:
 ![customer analaysis](https://github.com/GK2103/GK2103.github.io/assets/99646891/6b339451-5085-4e90-bc78-9143a89e29f8)
 
-##### Findings: (Full analysis can be found in the project report PDF)
+##### Findings: (Full analysis can be found in the project report PDF):
 
 ### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
