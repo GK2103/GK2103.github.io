@@ -14,8 +14,10 @@ XML
  
 Android Studios 
 
+-
+-
+-
 
- 
 ### Education
 • Queen Mary University of London: Computing and Information Systems MSc (Merit)
 
@@ -50,6 +52,10 @@ Page 2:
 
 [Link To GitHub Repository of Sales and Customer Data Analysis and Visualization Project](https://github.com/GK2103/Sales-and-Customer-Data-Analysis-Project)
 
+-
+-
+-
+
 ### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
@@ -75,6 +81,10 @@ This project shows a range of data analyst skills and data-driven techniques whi
 
 ##### Findings: (Full analysis can be found in the project report PDF) 
 The project's findings revealed that player performance statistics significantly affected the market values of footballers who were valued below £60 million, while higher-valued players above £130 million were influenced by a broader range of factors beyond statistics, such as age, league, and playing style. K-Means clustering provided additional insights by demonstrating that players with higher performance statistics tend to be valued more in the lower price range. The linear regression analysis indicated a small positive correlation (R-Value of 0.243) (Table 3) between market value and player performance statistics, although the model's fit was poor, as seen in Graph 2, suggesting a more complex relationship. In summary, while player statistics play a role in determining market values, their impact varies depending on a player's value range, highlighting the complex nature of football player valuation.
+
+-
+-
+-
 
 ### Project: WeightLess Fitness App:
 
@@ -132,6 +142,10 @@ Nakul (2022) Rise of misinformation in the fitness industry, TheSocialTalks. Ava
 
 Consagoustech (2023) From download to delete: The real reasons fitness apps fail users, Medium. Available at: https://medium.com/@itsconsagous/from-download-to-delete-the-real-reasons-fitness-apps-fail-users-b2e86424163d (Accessed: 15 August 2023).
 
+-
+-
+-
+
 ### Other Project:
 COVID-19 Dashboard
 
@@ -140,6 +154,9 @@ In my project, I make use of Python libraries, including pandas, numpy, and matp
 ![Slide8](https://github.com/GK2103/GK2103.github.io/assets/99646891/ad0e4e83-8603-47a3-968b-a8037bccdf5f) 
 [Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
 
+-
+-
+-
 
 ### Work Experience
 #### Store Assistant at Subra Enterprises: Convenience Store
