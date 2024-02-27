@@ -27,7 +27,19 @@ Android Studios
 
 ### Project: Sales and Customer Data Analysis and Visualization Project
 ##### Problem Area: 
+This project involves analyzing dummy data for a company and its customer loyalty system. The analysis aims to present an update on sales performance, changes in customer behaviour, and data-driven insights and recommendations through a PowerBI dashboard and PowerPoint presentation, supported by evidence from the data.
+
+
 ##### Methodology: 
+
+• Data Cleaning and Wrangling: Cleaned and wrangled the raw data in Excel to ensure data integrity and prepare it for analysis.
+
+• Data Import to SQL: The cleaned data was exported as a CSV file and imported into SQL for further processing. SQL queries were then executed to extract relevant insights from the dataset.
+
+• Data Analysis in SQL: SQL queries were utilized to analyze the data, uncovering patterns, trends, and correlations that provide valuable insights into sales performance and customer behaviour.
+
+• Data Visualization with Power BI: The analysed data was exported from SQL and imported into Power BI for visualization. Power BI was used to create interactive visualizations, allowing for in-depth exploration of the data and presentation of key findings to stakeholders. Visualizations such as charts, graphs, and dashboards were employed to effectively communicate trends and patterns in the data.
+
 ##### Results:
 ##### Findings: (Full analysis can be found in the project report PDF)
 
