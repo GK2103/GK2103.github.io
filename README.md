@@ -27,7 +27,7 @@ Android Studios
   
 ## Projects
 
-### Project: Sales and Customer Data Analysis and Visualization Project
+## Project 1: Sales and Customer Data Analysis and Visualization Project
 ##### Problem Area: 
 This project involves analyzing dummy data for a company and its customer loyalty system. The analysis aims to present an update on sales performance, changes in customer behaviour, and data-driven insights and recommendations through a PowerBI dashboard and PowerPoint presentation, supported by evidence from the data.
 
@@ -56,7 +56,7 @@ Page 2:
 -
 -
 
-### Project: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
+## Project 2: Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?:
 ##### Link to GitHub repository of the project (Containing the code for the project and pdf of the project report):
 [Link To GitHub Repository of Project](https://github.com/GK2103/Centre-Forward-Market-Value-Analysis)  
 
@@ -86,7 +86,7 @@ The project's findings revealed that player performance statistics significantly
 -
 -
 
-### Project: WeightLess Fitness App:
+## Project 3: WeightLess Fitness App:
 
 ##### The Link to GitHub repository of the project (Containing the folder to download the app ): 
 [Link To GitHub Repository of WeightLess App](https://github.com/GK2103/WeightLess)
@@ -146,7 +146,7 @@ Consagoustech (2023) From download to delete: The real reasons fitness apps fail
 -
 -
 
-### Other Project:
+## Other Project:
 COVID-19 Dashboard
 
 In my project, I make use of Python libraries, including pandas, numpy, and matplotlib, to analyse and visualise COVID-19 data pertinent to the UK. For Data Retrieval, I employed the uk-covid19 package, which enables the collection and organisation of data based on area type and selected metrics. This data is subsequently stored in JSON format and structured into DataFrames, ensuring efficient data handling. As part of Data Cleaning and Transformation, I performed tasks like date string conversion and age range parsing to enhance data quality. Notably, I had done some Data Visualization as I leveraged matplotlib to craft interactive visualisations and dynamic time series plots that empower users to track the evolving trends of COVID-19 statistics, encompassing cases, hospital admissions, and deaths, over time. The integration of interactive widgets, facilitated by ipywidgets, enriches the user experience, offering real-time data selection and scale adjustments delivering a comprehensive and interactive platform for COVID-19 data exploration and analysis.
@@ -154,22 +154,9 @@ In my project, I make use of Python libraries, including pandas, numpy, and matp
 ![Slide8](https://github.com/GK2103/GK2103.github.io/assets/99646891/ad0e4e83-8603-47a3-968b-a8037bccdf5f) 
 [Link To GitHub Repository of COVID-19 Dashboard](https://github.com/GK2103/COVID-19DashBoard)
 
--
--
--
 
-### Work Experience
-#### Store Assistant at Subra Enterprises: Convenience Store
 
-• Led the successful integration of the store onto a well-established online platform within a set deadline after
-analysing store data to identify the most popular, restocked, and frequently co-purchased items to identify
-data-driven solutions, resulting in a 5% increase in monthly sales demonstrating commercial awareness.
 
-• Effectively communicated technical and non-technical findings and insights, from store data analysis to
-stakeholders.  
-
-• Collaborated effectively with a sales team to recommend business insights to relevant stakeholders honing
-communication and teamwork skills.
 
 
 
